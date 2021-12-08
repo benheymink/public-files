@@ -1,0 +1,37 @@
+{
+  "vertices": [
+    {
+      "sourceId": "1",
+      "name": "Luke Skywalker",
+      "sourceType": "Person",
+      "groupName": "People",
+      "sourceName""CustomURL"
+    },
+    {
+      "sourceId": "2",
+      "name": "Darth Vader",
+      "sourceType": "Person",
+      "groupName": "People",
+      "sourceName""CustomURL"
+    },
+    {
+      "sourceId": "3",
+      "name": "C3PO",
+      "sourceType": "Droid",
+      "groupName": "Droids",
+      "sourceName""CustomURL"
+    }
+  ],
+  "edges": [
+    {
+      "outV": "2",
+      "label": "loves",
+      "inV": "1"
+    },
+    {
+      "outV": "1",
+      "label": "owns",
+      "inV": "3"
+    }
+  ]
+}
