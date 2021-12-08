@@ -4,6 +4,7 @@
       "sourceId": "1",
       "name": "Luke Skywalker",
       "sourceType": "Person",
+      "type": "Star Wars Character",
       "groupName": "People",
       "sourceName": "CustomURL"
     },
@@ -11,6 +12,7 @@
       "sourceId": "2",
       "name": "Darth Vader",
       "sourceType": "Person",
+      type": "Star Wars Character",
       "groupName": "People",
       "sourceName": "CustomURL"
     },
@@ -18,6 +20,7 @@
       "sourceId": "3",
       "name": "C3PO",
       "sourceType": "Droid",
+      type": "Star Wars Character",
       "groupName": "Droids",
       "sourceName": "CustomURL"
     }
